@@ -69,4 +69,4 @@ This project is licensed under the MIT License.
 Please replace placeholders like `your-username` with your actual GitHub username and customize any other sections as needed. This README provides a brief introduction, installation instructions, basic usage guidance, information on contributing, and the project's license. Adjust it based on your project's specific details and requirements.
 ```
 ## Let's make a better World together!
-:world:
+🌎
